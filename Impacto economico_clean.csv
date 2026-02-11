@@ -1,0 +1,93 @@
+Edad,Género,Universidad,Carrera,Semestre cursado,Trabajo y estudio,Emprendimientos,Presupuesto mensual,Categoria Gastos,Importancia economia,Fuenetes de ingreso,Reside en tunja,Prestamos ,Evitar actividades por economia,Reside con,Personas a cargo,Frecuencia de ahorro
+19,Masculino,Universidad Santo Tómas,Ingeniería de Datos e Inteligencia Artificial,1,No,No,800.000 - 1'000.000,Comida,Si,Familia,Si,Si,Si,Solo,Mascota,Rara vez
+20,Femenino,Universidad Santo Tómas,Ingeniería Ambiental,4,No,No,400.000 - 600.000,Comida y Transporte,Si,Familia,Si,No,No,Familia,Otros,Frecuentemente
+20,Femenino,Universidad Santo Tómas,Ingeniería Ambiental,4,No,No,200.000 - 400.000,Materiales;Comida y Transporte,Si,Familia;Trabajo,Si,Si,Si,Familia,Otros,Siempre
+20,Femenino,Universidad Santo Tómas,Licenciatura en Español y lenguas extranjeras Inglés y Francés,5,Si,No,400.000 - 600.000,Comida;Materiales;Arriendo,Si,Familia;Trabajo,Si,Si,No,Compañeros de cuarto/piso,Mascota,Algunas veces
+19,Masculino,Universidad Santo Tómas,Bioingeniería,1,No,No,800.000 - 1'000.000,Comida;Materiales;Arriendo,Si,Familia,Si,No,Si,Solo,Ninguna de las anteriores,Algunas veces
+22,Masculino,Universidad Santo Tómas,Ingeniería Ambiental,10,Si,No,800.000 - 1'000.000,Comida y Transporte,Si,Familia;Trabajo,No,No,No,Familia,Mascota,Frecuentemente
+18,Masculino,Universidad Santo Tómas,Ingeniería de Sistemas,4,No,No,200.000 - 400.000,Comida;Arriendo,Si,Familia,Si,No,No,Solo,Ninguna de las anteriores,Rara vez
+24,Masculino,Universidad Santo Tómas,Ingeniería Civil,7,Si,Si,800.000 - 1'000.000,Comida;Arriendo;Comida y Transporte,Si,Trabajo,Si,Si,Si,Solo,Ninguna de las anteriores,Siempre
+21,Masculino,Universidad Santo Tómas,Ingeniería Civil,7,Si,No,600.000 - 800.000,Transporte;Comida;Materiales,Si,Familia;Trabajo,Si,Si,Si,Familia,Ninguna de las anteriores,Frecuentemente
+24,Masculino,Universidad Santo Tómas,Diseño de interacción,7,Si,No,400.000 - 600.000,Todas las anteriores,Si,Trabajo,No,No,No,Familia,Familiares,Frecuentemente
+22,Femenino,Universidad Santo Tómas,Ingeniería Civil,6,No,No,400.000 - 600.000,Transporte;Comida;Materiales;Comida y Transporte,Si,Familia,Si,No,No,Solo,Familiares,Frecuentemente
+20,Femenino,Universidad Santo Tómas,Arquitectura,8,No,No,800.000 - 1'000.000,Materiales;Arriendo,Si,Familia,Si,No,No,Solo,Ninguna de las anteriores,Frecuentemente
+21,Masculino,Universidad Santo Tómas,Ingeniería Ambiental,5,No,No,200.000 - 400.000,Comida y Transporte,Si,Familia,Si,Si,Si,Solo,Ninguna de las anteriores,Rara vez
+20,Femenino,Universidad Santo Tómas,Ingeniería Ambiental,5,Si,No,400.000 - 600.000,Materiales;Arriendo;Comida y Transporte,Si,Familia,Si,Si,Si,Solo,Ninguna de las anteriores,Rara vez
+19,Femenino,Universidad Santo Tómas,Ingeniería Ambiental,5,No,No,800.000 - 1'000.000,Transporte;Comida;Materiales;Arriendo,Si,Familia,Si,No,Si,Solo,Ninguna de las anteriores,Algunas veces
+21,Femenino,Universidad Santo Tómas,Arquitectura,10,No,No,400.000 - 600.000,Comida y Transporte,Si,Familia,Si,Si,Si,Solo,Mascota,Algunas veces
+19,Masculino,Universidad Santo Tómas,Ingeniería Mecánica,6,No,No,100.000 - 200.000,Materiales,Si,Familia,Si,No,No,Familia,Mascota,Siempre
+20,Masculino,Universidad Santo Tómas,Arquitectura,2,No,No,400.000 - 600.000,Transporte;Comida;Materiales,Si,Familia,Si,No,Si,Familia,Ninguna de las anteriores,Algunas veces
+17,Masculino,Universidad Santo Tómas,Arquitectura,2,No,Si,100.000 - 200.000,Todas las anteriores,Si,Familia,Si,No,Si,Solo,Ninguna de las anteriores,Algunas veces
+20,Masculino,Universidad Santo Tómas,Arquitectura,2,Si,Si,400.000 - 600.000,Materiales;Todas las anteriores,Si,Familia;Trabajo,No,No,No,Familia,Ninguna de las anteriores,Rara vez
+23,Femenino,Universidad Santo Tómas,Ingeniería Civil,7,No,No,400.000 - 600.000,Todas las anteriores,Si,Familia,Si,Si,No,Solo,Ninguna de las anteriores,Algunas veces
+21,Femenino,Universidad Santo Tómas,Arquitectura,7,Si,No,400.000 - 600.000,Materiales,Si,Familia,Si,Si,No,Familia,Familiares,Algunas veces
+20,Femenino,Universidad Santo Tómas,Licenciatura en Español y lenguas extranjeras Inglés y Francés,5,Si,No,400.000 - 600.000,Transporte;Comida;Materiales;Comida y Transporte;Otro,Si,Familia;Trabajo,Si,Si,Si,Solo,Ninguna de las anteriores,Algunas veces
+18,Masculino,Universidad Santo Tómas,Licenciatura en Español y lenguas extranjeras Inglés y Francés,4,No,Si,200.000 - 400.000,Transporte;Comida,Si,Familia,Si,No,Si,Familia,Ninguna de las anteriores,Frecuentemente
+21,Femenino,Universidad Santo Tómas,Arquitectura,8,No,No,800.000 - 1'000.000,Todas las anteriores,Si,Familia,Si,No,No,Familia,Ninguna de las anteriores,Frecuentemente
+17,Femenino,Universidad Santo Tómas,Diseño de interacción,1,No,No,200.000 - 400.000,Materiales;Comida y Transporte,Si,Familia,Si,No,No,Solo,Mascota,Frecuentemente
+24,Femenino,Universidad Santo Tómas,Diseño de interacción,5,Si,Si,400.000 - 600.000,Transporte;Comida,Si,Trabajo,Si,Si,Si,Familia,Mascota,Rara vez
+21,Masculino,Universidad Santo Tómas,Ingeniería Mecánica,3,Si,No,400.000 - 600.000,Transporte,Si,Trabajo,No,No,Si,Familia,Ninguna de las anteriores,Algunas veces
+18,Femenino,Universidad Santo Tómas,Ingeniería Mecánica,3,No,Si,200.000 - 400.000,Todas las anteriores,Si,Familia,Si,No,No,Compañeros de cuarto/piso,Ninguna de las anteriores,Algunas veces
+18,Masculino,Universidad Santo Tómas,Arquitectura,2,Si,No,600.000 - 800.000,Transporte;Comida;Materiales,Si,Familia;Trabajo,Si,No,No,Solo,Ninguna de las anteriores,Rara vez
+17,Masculino,Universidad Santo Tómas,Arquitectura,2,No,No,200.000 - 400.000,Materiales;Comida y Transporte,Si,Familia,No,Si,Si,Familia,Ninguna de las anteriores,Algunas veces
+27,Masculino,Universidad Santo Tómas,Ingeniería Civil,10,Si,Si,400.000 - 600.000,Todas las anteriores,Si,Familia;Trabajo,Si,Si,Si,Compañeros de cuarto/piso,Hijos,Nunca
+24,Masculino,Universidad Santo Tómas,Ingeniería Civil,10,Si,Si,1'000.000+,Transporte;Comida;Materiales;Comida y Transporte;Otro,Si,Beca;Trabajo,Si,No,No,Familia,Familiares,Siempre
+22,Masculino,Universidad Santo Tómas,Ingeniería Industrial,1,Si,Si,400.000 - 600.000,Transporte,Si,Familia,No,No,Si,Familia,Mascota,Rara vez
+18,Masculino,Universidad Santo Tómas,Ingeniería Industrial,1,No,Si,100.000 - 200.000,Comida y Transporte,Si,Beca;Trabajo,Si,No,Si,Familia,Ninguna de las anteriores,Frecuentemente
+17,Masculino,Universidad Santo Tómas,Ingeniería Industrial,1,No,No,1'000.000+,Otro,Si,Familia,Si,No,No,Solo,Ninguna de las anteriores,Nunca
+18,Masculino,Universidad Santo Tómas,Ingeniería Industrial,1,No,No,100.000 - 200.000,Transporte;Comida;Materiales;Otro,Si,Familia,No,No,Si,Familia,Ninguna de las anteriores,Algunas veces
+19,Masculino,Universidad Santo Tómas,Ingeniería Industrial,1,Si,Si,1'000.000+,Comida y Transporte,Si,Familia,Si,No,No,Solo,Ninguna de las anteriores,Nunca
+18,Masculino,Universidad Santo Tómas,Ingeniería Industrial,1,No,No,100.000 - 200.000,Otro,Si,Familia,Si,No,No,Familia,Ninguna de las anteriores,Rara vez
+20,Femenino,Universidad Santo Tómas,Diseño de interacción,4,No,Si,200.000 - 400.000,Arriendo;Comida y Transporte,Si,Familia,Si,Si,Si,Compañeros de cuarto/piso,Mascota,Algunas veces
+19,Femenino,Universidad Santo Tómas,Diseño de interacción,4,No,No,200.000 - 400.000,Comida y Transporte,Si,Familia,No,No,No,Compañeros de cuarto/piso,Ninguna de las anteriores,Rara vez
+19,Masculino,Universidad Santo Tómas,Ingeniería Civil,4,Si,Si,400.000 - 600.000,Comida;Arriendo,Si,Familia;Trabajo,Si,Si,Si,Solo,Mascota,Frecuentemente
+22,Masculino,Universidad Santo Tómas,Ingeniería Civil,4,No,No,800.000 - 1'000.000,Comida,Si,Familia,Si,No,Si,Familia,Ninguna de las anteriores,Algunas veces
+29,Masculino,Universidad Santo Tómas,"Cultura Física, Deporte y Recreación",4,Si,Si,100.000 - 200.000,Materiales;Comida y Transporte,Si,Familia,Si,No,Si,Familia,Ninguna de las anteriores,Algunas veces
+18,Masculino,Universidad Santo Tómas,Bioingeniería,1,No,Si,800.000 - 1'000.000,Materiales;Comida y Transporte,Si,Familia,Si,No,Si,Compañeros de cuarto/piso,Mascota,Algunas veces
+18,Masculino,Universidad Santo Tómas,Derecho,1,No,No,1'000.000+,Comida y Transporte,Si,Familia,Si,No,No,Familia,Mascota,Rara vez
+19,Femenino,Universidad Pedagógica y Tecnológica de Colombia (UPTC),Licenciatura en Ciencias Naturales y Educación Ambiental,5,Si,No,800.000 - 1'000.000,Comida y Transporte,Si,Familia,Si,No,Si,Solo,Ninguna de las anteriores,Algunas veces
+19,Femenino,Universidad Pedagógica y Tecnológica de Colombia (UPTC),Negocios Internacionales,3,No,No,400.000 - 600.000,Comida;Arriendo,Si,Familia,Si,No,Si,Familia,Ninguna de las anteriores,Algunas veces
+24,Masculino,Universidad Pedagógica y Tecnológica de Colombia (UPTC),Derecho,7,Si,Si,600.000 - 800.000,Arriendo;Comida y Transporte,Si,Trabajo,No,No,Si,Compañeros de cuarto/piso,Ninguna de las anteriores,Siempre
+21,Masculino,Universidad Pedagógica y Tecnológica de Colombia (UPTC),Química,7,No,No,600.000 - 800.000,Arriendo;Comida y Transporte,Si,Familia;Trabajo,Si,No,Si,Compañeros de cuarto/piso,Mascota,Frecuentemente
+18,Femenino,Universidad Pedagógica y Tecnológica de Colombia (UPTC),Ingeniería Agronómica,1,No,No,400.000 - 600.000,Comida y Transporte,No,Familia,Si,No,Si,Familia,Ninguna de las anteriores,Rara vez
+28,Femenino,Universidad Pedagógica y Tecnológica de Colombia (UPTC),Ingeniería Civil,8,Si,No,200.000 - 400.000,Transporte;Comida;Materiales,Si,Beca,Si,No,Si,Compañeros de cuarto/piso,Ninguna de las anteriores,Algunas veces
+20,Masculino,Universidad Pedagógica y Tecnológica de Colombia (UPTC),Medicina Veterinaria y Zootecnia,3,Si,No,400.000 - 600.000,Arriendo;Comida y Transporte,Si,Familia;Trabajo,Si,No,Si,Solo,Ninguna de las anteriores,Frecuentemente
+22,Masculino,Universidad Pedagógica y Tecnológica de Colombia (UPTC),Física,6,No,No,600.000 - 800.000,Arriendo;Comida y Transporte,Si,Familia;Trabajo,Si,No,Si,Compañeros de cuarto/piso,Mascota,Rara vez
+18,Femenino,Universidad Pedagógica y Tecnológica de Colombia (UPTC),Física,1,No,No,100.000 - 200.000,Comida,Si,Familia,Si,Si,Si,Familia,Mascota,Rara vez
+17,Masculino,Universidad Pedagógica y Tecnológica de Colombia (UPTC),Química,2,Si,Si,400.000 - 600.000,Materiales;Arriendo;Comida y Transporte,Si,Trabajo,Si,Si,Si,Compañeros de cuarto/piso,Mascota,Nunca
+21,Femenino,Universidad Pedagógica y Tecnológica de Colombia (UPTC),Ingeniería de Sistemas,5,No,No,1'000.000+,Comida y Transporte,No,Familia,No,No,Si,Familia,Ninguna de las anteriores,Algunas veces
+20,Femenino,Universidad Pedagógica y Tecnológica de Colombia (UPTC),Ingeniería de Sistemas,4,Si,Si,600.000 - 800.000,Transporte;Comida;Materiales,Si,Trabajo,Si,Si,Si,Compañeros de cuarto/piso,Ninguna de las anteriores,Siempre
+22,Masculino,Universidad Pedagógica y Tecnológica de Colombia (UPTC),Ingeniería de Sistemas,6,No,No,400.000 - 600.000,Comida y Transporte,Si,Familia,Si,No,Si,Solo,Ninguna de las anteriores,Algunas veces
+19,Masculino,Universidad Pedagógica y Tecnológica de Colombia (UPTC),Ingeniería de Sistemas,2,No,No,800.000 - 1'000.000,Arriendo;Comida y Transporte,No,Familia,Si,No,Si,Solo,Mascota,Nunca
+20,Masculino,Universidad de Boyacá,Ingeniería en Multimedia,5,No,No,400.000 - 600.000,Comida;Arriendo,Si,Familia,Si,No,Si,Compañeros de cuarto/piso,Ninguna de las anteriores,Frecuentemente
+20,Masculino,Universidad de Boyacá,Ingeniería de Sistemas,6,No,No,100.000 - 200.000,Materiales;Comida y Transporte,Si,Familia;Beca,Si,Si,Si,Solo,Ninguna de las anteriores,Siempre
+18,Femenino,Universidad Pedagógica y Tecnológica de Colombia (UPTC),Ingeniería de Sistemas,1,No,No,400.000 - 600.000,Comida y Transporte,Si,Familia,Si,No,Si,Familia,Ninguna de las anteriores,Algunas veces
+20,Masculino,Universidad Pedagógica y Tecnológica de Colombia (UPTC),Ingeniería de Sistemas,4,No,No,200.000 - 400.000,Comida,Si,Familia,Si,Si,Si,Familia,Ninguna de las anteriores,Algunas veces
+22,Masculino,Universidad Pedagógica y Tecnológica de Colombia (UPTC),Ingeniería de Sistemas,5,Si,No,800.000 - 1'000.000,Arriendo;Comida y Transporte,No,Trabajo,Si,No,Si,Solo,Mascota,Frecuentemente
+23,Masculino,Universidad Pedagógica y Tecnológica de Colombia (UPTC),Ingeniería de Sistemas,4,Si,Si,400.000 - 600.000,Arriendo;Comida y Transporte,Si,Trabajo,Si,Si,Si,Solo,Mascota,Rara vez
+20,Masculino,Universidad Pedagógica y Tecnológica de Colombia (UPTC),Ingeniería de Sistemas,3,No,No,400.000 - 600.000,Comida,No,Familia,Si,No,No,Familia,Mascota,Algunas veces
+19,Femenino,Universidad Pedagógica y Tecnológica de Colombia (UPTC),Ingeniería de Sistemas,2,No,No,200.000 - 400.000,Transporte;Comida,Si,Familia,Si,No,Si,Familia,Ninguna de las anteriores,Frecuentemente
+23,Femenino,Universidad Pedagógica y Tecnológica de Colombia (UPTC),Ingeniería de Sistemas,5,Si,No,600.000 - 800.000,Comida y Transporte,Si,Familia;Trabajo,Si,No,No,Familia,Ninguna de las anteriores,Algunas veces
+22,Masculino,Universidad de Boyacá,Ingeniería en Multimedia,6,No,No,200.000 - 400.000,Comida,Si,Familia,Si,No,Si,Compañeros de cuarto/piso,Ninguna de las anteriores,Algunas veces
+19,Femenino,Universidad Pedagógica y Tecnológica de Colombia (UPTC),Ingeniería Agronómica,2,No,No,600.000 - 800.000,Comida y Transporte,Si,Familia,Si,No,No,Familia,Ninguna de las anteriores,Rara vez
+22,Masculino,Universidad Pedagógica y Tecnológica de Colombia (UPTC),Ingeniería de Transporte y Vías,6,Si,No,600.000 - 800.000,Todas las anteriores,Si,Familia;Trabajo,Si,No,Si,Solo,Mascota,Frecuentemente
+22,Femenino,Universidad Pedagógica y Tecnológica de Colombia (UPTC),Ingeniería de Transporte y Vías,5,Si,No,800.000 - 1'000.000,Todas las anteriores,Si,Familia;Trabajo,Si,No,Si,Compañeros de cuarto/piso,Mascota,Algunas veces
+20,Femenino,Universidad de Boyacá,Enfermería,4,No,No,200.000 - 400.000,Comida;Materiales;Otro,Si,Familia,Si,Si,Si,Solo,Mascota,Algunas veces
+20,Masculino,Universidad de Boyacá,Ingeniería en Multimedia,6,No,No,1'000.000+,Transporte;Comida;Materiales;Otro,Si,Familia,Si,No,No,Solo,Mascota,Algunas veces
+19,Femenino,Universidad de Boyacá,Psicología,3,No,No,800.000 - 1'000.000,Comida;Arriendo,Si,Familia,Si,Si,Si,Compañeros de cuarto/piso,Ninguna de las anteriores,Algunas veces
+19,Femenino,Universidad de Boyacá,Medicina,2,No,No,800.000 - 1'000.000,Transporte;Comida;Materiales,Si,Familia,Si,No,No,Solo,Mascota,Rara vez
+18,Femenino,Universidad Pedagógica y Tecnológica de Colombia (UPTC),Medicina Veterinaria y Zootecnia,1,No,No,200.000 - 400.000,Comida y Transporte,Si,Familia,Si,No,Si,Familia,Mascota,Rara vez
+18,Femenino,Universidad Pedagógica y Tecnológica de Colombia (UPTC),Medicina Veterinaria y Zootecnia,1,No,No,800.000 - 1'000.000,Arriendo,Si,Familia,Si,No,No,Solo,Mascota,Frecuentemente
+18,Femenino,Universidad Pedagógica y Tecnológica de Colombia (UPTC),Medicina Veterinaria y Zootecnia,1,No,No,100.000 - 200.000,Comida y Transporte,Si,Familia,Si,No,Si,Familia,Mascota,Algunas veces
+21,Masculino,Universidad Santo Tómas ,Ingeniería de Datos e Inteligencia Artificial,1,No,Si,400.000 - 600.000,Comida,Si,Familia,Si,No,Si,Familia,Otros,Algunas veces
+18,Femenino,Universidad Santo Tómas ,Ingeniería de Datos e Inteligencia Artificial,1,No,No,800.000 - 1'000.000,Transporte,Si,Familia,No,No,Si,Familia,Mascota,Frecuentemente
+19,Masculino,Universidad Santo Tómas ,Ingeniería de Datos e Inteligencia Artificial,1,Si,No,1'000.000+,Comida,Si,Trabajo,Si,No,Si,Solo,Otros,Siempre
+19,Masculino,Universidad Santo Tómas ,Ingeniería de Datos e Inteligencia Artificial,1,Si,No,1'000.000+,Comida,Si,Trabajo,Si,No,Si,Solo,Otros,Siempre
+20,Femenino,Universidad Santo Tómas ,Ingeniería Industrial,7,Si,Si,600.000 - 800.000,Comida y Transporte,Si,Familia,Si,No,Si,Familia,Otros,Siempre
+21,Femenino,Universidad Santo Tómas ,Ingeniería de Datos e Inteligencia Artificial,1,No,No,800.000 - 1'000.000,Todas las anteriores,Si,Familia,Si,Si,Si,Compañeros de cuarto/piso,Otros,Frecuentemente
+20,Masculino,Universidad de Boyacá,Ingeniería en Multimedia,5,No,No,400.000 - 600.000,Comida,Si,Familia,Si,Si,Si,Compañeros de cuarto/piso,Mascota,Algunas veces
+19,Femenino,Universidad de Boyacá,Psicología ,3,No,No,200.000 - 400.000,Comida,No,Familia,Si,No,No,Solo,Mascota,Nunca
+17,Femenino,Universidad Santo Tómas ,Negocios Internacionales,2,No,No,1'000.000+,Todas las anteriores,Si,Familia,No,No,No,Compañeros de cuarto/piso,Otros,Rara vez
+18,Femenino,Universidad de Boyacá,Bacteriología y Laboratorio Clínico,2,No,No,600.000 - 800.000,Arriendo,Si,Familia,Si,Si,Si,Solo,Mascota,Algunas veces
+18,Masculino,Universidad Santo Tómas ,Ingeniería de Sistemas,1,Si,No,400.000 - 600.000,Comida y Transporte,Si,Trabajo,No,Si,Si,Familia,Hijos,Frecuentemente
+17,Masculino,Universidad Santo Tómas ,Ingeniería de Sistemas,1,Si,No,200.000 - 400.000,Comida,No,Familia,Si,No,No,Familia,Otros,Algunas veces
